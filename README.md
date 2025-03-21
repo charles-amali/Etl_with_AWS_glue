@@ -8,7 +8,7 @@ This pipeline processes real-time music listening data to generate actionable in
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](images/elt2.png)
+![Architecture Diagram](images/etl2.png)
 
 ### Data Flow
 
@@ -172,5 +172,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Contact
 
-For questions or feedback, please reach out to [Your Contact Information]
+For questions or feedback, please reach out to charlesadunkansah@gmail.com
 
